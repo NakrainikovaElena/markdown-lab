@@ -34,41 +34,10 @@ $$
   - подпункт 2
 
 Упорядоченный список:
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<style>
-  /* Основной нумерованный список */
-  ol.main {
-    list-style-type: decimal; /* 1, 2, 3 ... */
-    margin: 0;
-    padding-left: 20px;
-  }
-
-  /* Вложенный список с буквами a, b, c ... */
-  ol.sub {
-    list-style-type: lower-alpha; /* a, b, c ... */
-    margin: 0;
-    padding-left: 40px; /* отступ для подпунктов */
-  }
-</style>
-</head>
-<body>
-
-<ol class="main">
-  <li>Пункт 1</li>
-  <li>Пункт 2
-    <ol class="sub">
-      <li>подпункт 1</li>
-      <li>подпункт 2</li>
-    </ol>
-  </li>
-</ol>
-
-</body>
-</html>
-
+1. Пукнт 1
+2. Пункт 2
+   - a. подпункт 1
+   - b. подпункт 2
 
 Стол:
 
