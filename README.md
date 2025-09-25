@@ -38,8 +38,8 @@ $$
   <li>Пункт 1</li>
   <li>Пункт 2
     <ol style="list-style-type: lower-alpha; margin-left: 2em;">
-      <li>Подпункт 1</li>
-      <li>Подпункт 2</li>
+      <li>a. Подпункт 1</li>
+      <li>b. Подпункт 2</li>
     </ol>
   </li>
 </ol>
