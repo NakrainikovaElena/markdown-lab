@@ -34,22 +34,15 @@ $$
   - подпункт 2
 
 Упорядоченный список:
-<ol>
-  <li>Пункт 1</li>
-  <li>Пункт 2
-    <ol id="myList">
-      <li>Подпункт 1</li>
-      <li>Подпункт 2</li>
-    </ol>
-  </li>
-</ol>
-
-<script>
-  const list = document.getElementById("myList");
-  list.style.listStyleType = "lower-alpha";
-</script>
-
-
+        <ol>
+          <li>Пункт 1</li>
+          <li>Пункт 2
+            <ol style="list-style-type: lower-alpha; margin-left: 2em;">
+              <li>Подпункт 1</li>
+              <li>Подпункт 2</li>
+            </ol>
+          </li>
+        </ol>
 
 Стол:
 
