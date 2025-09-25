@@ -37,13 +37,12 @@ $$
 <ol>
   <li>Пункт 1</li>
   <li>Пункт 2
-    <ol type="a">
+    <ol style="list-style-type: lower-alpha;">
       <li>подпункт 1</li>
       <li>подпункт 2</li>
     </ol>
   </li>
 </ol>
-
 
 Стол:
 
