@@ -37,9 +37,9 @@ $$
 <ol>
   <li>Пункт 1</li>
   <li>Пункт 2
-    <ol>
-      <li>a. подпункт 1</li>
-      <li>b. подпункт 2</li>
+    <ol style="list-style-type: lower-alpha !important;">
+      <li>Подпункт 1</li>
+      <li>Подпункт 2</li>
     </ol>
   </li>
 </ol>
