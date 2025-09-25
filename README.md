@@ -61,8 +61,10 @@ $$
 # Елена Накрайникова
 
 **Email:** enakrainikova@mail.ru
+
 **Телефон:** +7 937 075 70 80
 
+**Ссылка на github:** https://github.com/NakrainikovaElena
 ---
 
 ## Цель
